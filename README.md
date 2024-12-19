@@ -42,16 +42,16 @@ A Streamlit-based web application that allows users to draw digits on a canvas a
 1. Clone the repository:
    ```bash
    git clone https://github.com/prayash100/Digit_canvas.git
-2.Navigate to the project directory:
-  ```bash
-  cd Digit_canvas
-3.Install the required dependencies:
-```bash
-pip install -r requirements.txt
-4.Run the application:
-```bash
-streamlit run app.py
-5.Open your browser and navigate to the URL displayed in the terminal (usually http://localhost:8501)
+2. Navigate to the project directory:
+   ```bash
+   cd Digit_canvas
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+4. Run the application:
+   ```bash
+   streamlit run app.py
+5. Open your browser and navigate to the URL displayed in the terminal (usually http://localhost:8501)
 
 ## Usage
 1. Run the Streamlit application.
@@ -60,3 +60,5 @@ streamlit run app.py
 
 ## License
 This project is licensed under the MIT License.
+
+
