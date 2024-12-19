@@ -51,5 +51,12 @@ pip install -r requirements.txt
 4.Run the application:
 ```bash
 streamlit run app.py
-5.Open your browser and navigate to the URL displayed in the terminal (usually http://localhost:8501).
+5.Open your browser and navigate to the URL displayed in the terminal (usually http://localhost:8501)
 
+## Usage
+1. Run the Streamlit application.
+2. Use the canvas to draw a digit.
+3. Click the Predict button to see the prediction.
+
+## License
+This project is licensed under the MIT License.
